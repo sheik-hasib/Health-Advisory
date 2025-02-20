@@ -1,2 +1,16 @@
-# Health-Advisory
-Health Advisory App is a Flutter-based application that helps users calculate their Body Mass Index (BMI) and Basal Metabolic Rate (BMR). It provides personalized health advice based on BMI results and supports gender selection for accurate BMR calculations. Users can easily navigate through an intuitive interface to assess their health status
+# bmi_calculator_new
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
